@@ -1,0 +1,9 @@
+$1showfflag:1
+$2flashscreenflag:1
+$32showhelpflag:1
+$4lockupdateflag:1
+$5standbytimeoutflag:1
+$6dateformatflag:1
+$7autoupdateflag:1
+$8updatetimeflag:1
+$9selbackflag:1

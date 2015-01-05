@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TMmeter</string>
+    <string name="action_settings">设置</string>
+    <string name="action_quit">退出</string>
+	<string name="currentTemp">湿度</string>
+	<string name="SprintText">春</string>
+	<string name="SummerText">夏</string>
+	<string name="AutumnText">秋</string>
+	<string name="WinterText">夏</string>
+	<string name="BgImage">背景图片</string>
+	<string name="MenuTitle">设置</string>
+	<string name="AppTitle">温度计</string>
+	<string name="TempSign">℃</string>
+	<string name="AllSelect">全部选择</string>
+	<string name="AllCancel">全部取消</string>
+	<string name="SpaceString">"  "</string>
+</resources>
